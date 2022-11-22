@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Ingreso_de_incidente</string>
+
+
+    <!--Vamos hacer un Drondown para la lista despegable-->
+    <string-array name="lista">
+        <item>Seleccione Laboratorio</item>
+        <item>C2</item>
+        <item>LINF</item>
+        <item>LEICA</item>
+        <item>LNET</item>
+        <item>LTEL</item>
+
+    </string-array>
+</resources>

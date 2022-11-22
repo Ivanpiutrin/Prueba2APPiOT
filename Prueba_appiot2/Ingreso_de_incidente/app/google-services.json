@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "975817457895",
+    "firebase_url": "https://control-led-c104e-default-rtdb.firebaseio.com",
+    "project_id": "control-led-c104e",
+    "storage_bucket": "control-led-c104e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975817457895:android:35cde38732f8b037526242",
+        "android_client_info": {
+          "package_name": "com.taly.control_led"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975817457895-8v04jh327tt4phoqojkquuujjukih6su.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp29vqFgPtZYob7b33hn0YZHWcRXkjlW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975817457895-8v04jh327tt4phoqojkquuujjukih6su.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975817457895:android:b08b25c545ea67e3526242",
+        "android_client_info": {
+          "package_name": "com.taly.ingreso_de_incidente"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975817457895-8v04jh327tt4phoqojkquuujjukih6su.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp29vqFgPtZYob7b33hn0YZHWcRXkjlW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975817457895-8v04jh327tt4phoqojkquuujjukih6su.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
